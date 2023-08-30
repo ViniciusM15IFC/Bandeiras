@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ul {
+    height: 600px;
+    width: 800px;
+    list-style: none;
+    margin: 10px;
+}
+li {
+    width: 33%;
+    height: 100%;
+    display: inline-block;
+}
+.blue {
+    background-color: blue;
+}
+.red {
+    background-color: red;
+}
+.white {
+    background-color: white;
+}
+.green {
+    background-color: green;
+}
